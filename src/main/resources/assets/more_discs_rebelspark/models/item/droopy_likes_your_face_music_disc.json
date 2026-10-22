@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark:item/droopy_likes_your_face_music_disc"
+  }
+}

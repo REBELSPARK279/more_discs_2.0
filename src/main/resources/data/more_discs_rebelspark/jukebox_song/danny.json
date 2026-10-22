@@ -1,0 +1,8 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "translate": "item.more_discs_rebelspark.danny_music_disc.desc"
+  },
+  "length_in_seconds": 259.0,
+  "sound_event": "more_discs_rebelspark:danny"
+}

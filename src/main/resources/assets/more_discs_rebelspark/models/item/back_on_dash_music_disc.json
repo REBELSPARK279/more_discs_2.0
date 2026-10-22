@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark:item/back_on_dash_music_disc"
+  }
+}

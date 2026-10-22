@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.more_discs_rebelspark.beginning2_music_disc.desc"
+  },
+  "length_in_seconds": 178.0,
+  "sound_event": "more_discs_rebelspark:beginning2"
+}

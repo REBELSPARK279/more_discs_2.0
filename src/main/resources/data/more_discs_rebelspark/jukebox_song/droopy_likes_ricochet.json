@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "item.more_discs_rebelspark.droopy_likes_ricochet_music_disc.desc"
+  },
+  "length_in_seconds": 98.0,
+  "sound_event": "more_discs_rebelspark:droopy_likes_ricochet"
+}

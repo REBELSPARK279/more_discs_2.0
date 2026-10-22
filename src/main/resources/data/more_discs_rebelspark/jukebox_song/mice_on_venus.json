@@ -1,0 +1,8 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "translate": "item.more_discs_rebelspark.mice_on_venus_music_disc.desc"
+  },
+  "length_in_seconds": 283.0,
+  "sound_event": "more_discs_rebelspark:mice_on_venus"
+}

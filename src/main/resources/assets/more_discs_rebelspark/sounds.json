@@ -1,0 +1,569 @@
+{
+  "a_familiar_room": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:a_familiar_room",
+        "stream": true
+      }
+    ]
+  },
+
+  "aerie": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:aerie",
+        "stream": true
+      }
+    ]
+  },
+
+  "alpha": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:alpha",
+        "stream": true
+      }
+    ]
+  },
+
+  "aria_math": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:aria_math",
+        "stream": true
+      }
+    ]
+  },
+
+  "axolotl": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:axolotl",
+        "stream": true
+      }
+    ]
+  },
+
+  "back_on_dash": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:back_on_dash",
+        "stream": true
+      }
+    ]
+  },
+
+  "ballad_of_the_cats": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:ballad_of_the_cats",
+        "stream": true
+      }
+    ]
+  },
+
+  "beginning": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:beginning",
+        "stream": true
+      }
+    ]
+  },
+
+  "beginning2": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:beginning2",
+        "stream": true
+      }
+    ]
+  },
+
+  "biome_fest": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:biome_fest",
+        "stream": true
+      }
+    ]
+  },
+
+  "blind_spots": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:blind_spots",
+        "stream": true
+      }
+    ]
+  },
+
+  "castlemania": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:castlemania",
+        "stream": true
+      }
+    ]
+  },
+
+  "castlemania2": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:castlemania2",
+        "stream": true
+      }
+    ]
+  },
+
+  "chris": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:chris",
+        "stream": true
+      }
+    ]
+  },
+
+  "clark": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:clark",
+        "stream": true
+      }
+    ]
+  },
+
+  "concrete_halls": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:concrete_halls",
+        "stream": true
+      }
+    ]
+  },
+
+  "danny": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:danny",
+        "stream": true
+      }
+    ]
+  },
+
+  "dead_voxel": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:dead_voxel",
+        "stream": true
+      }
+    ]
+  },
+
+  "death": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:death",
+        "stream": true
+      }
+    ]
+  },
+
+  "dog": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:dog",
+        "stream": true
+      }
+    ]
+  },
+
+  "door": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:door",
+        "stream": true
+      }
+    ]
+  },
+
+  "dragonfish": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:dragonfish",
+        "stream": true
+      }
+    ]
+  },
+
+  "dreiton": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:dreiton",
+        "stream": true
+      }
+    ]
+  },
+
+  "droopy_likes_ricochet": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:droopy_likes_ricochet",
+        "stream": true
+      }
+    ]
+  },
+
+  "droopy_likes_your_face": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:droopy_likes_your_face",
+        "stream": true
+      }
+    ]
+  },
+
+  "dry_hands": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:dry_hands",
+        "stream": true
+      }
+    ]
+  },
+
+  "eleven": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:eleven",
+        "stream": true
+      }
+    ]
+  },
+
+  "excuse": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:excuse",
+        "stream": true
+      }
+    ]
+  },
+
+  "executioner": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:executioner",
+        "stream": true
+      }
+    ]
+  },
+
+  "equinoxe": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:equinoxe",
+        "stream": true
+      }
+    ]
+  },
+
+  "firebugs": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:firebugs",
+        "stream": true
+      }
+    ]
+  },
+
+  "flake": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:flake",
+        "stream": true
+      }
+    ]
+  },
+
+  "floating_dream": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:floating_dream",
+        "stream": true
+      }
+    ]
+  },
+
+  "floating_trees": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:floating_trees",
+        "stream": true
+      }
+    ]
+  },
+
+  "haggstrom": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:haggstrom",
+        "stream": true
+      }
+    ]
+  },
+
+  "hardcoreminecraft": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:hardcoreminecraft",
+        "stream": true
+      }
+    ]
+  },
+
+  "haunt_muskie": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:haunt_muskie",
+        "stream": true
+      }
+    ]
+  },
+
+  "headbug": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:headbug",
+        "stream": true
+      }
+    ]
+  },
+
+  "infinite_amethyst": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:infinite_amethyst",
+        "stream": true
+      }
+    ]
+  },
+
+  "intro": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:intro",
+        "stream": true
+      }
+    ]
+  },
+
+  "invincible": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:invincible",
+        "stream": true
+      }
+    ]
+  },
+
+  "key": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:key",
+        "stream": true
+      }
+    ]
+  },
+
+  "ki": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:ki",
+        "stream": true
+      }
+    ]
+  },
+
+  "kyoto": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:kyoto",
+        "stream": true
+      }
+    ]
+  },
+
+  "labyrinthine": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:labyrinthine",
+        "stream": true
+      }
+    ]
+  },
+
+  "left_to_bloom": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:left_to_bloom",
+        "stream": true
+      }
+    ]
+  },
+
+  "living_mice": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:living_mice",
+        "stream": true
+      }
+    ]
+  },
+
+  "mice_on_venus": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:mice_on_venus",
+        "stream": true
+      }
+    ]
+  },
+
+  "minecraft": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:minecraft",
+        "stream": true
+      }
+    ]
+  },
+
+  "moog_city": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:moog_city",
+        "stream": true
+      }
+    ]
+  },
+
+  "moog_city2": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:moog_city2",
+        "stream": true
+      }
+    ]
+  },
+
+  "mutation": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:mutation",
+        "stream": true
+      }
+    ]
+  },
+
+  "one_more_day": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:one_more_day",
+        "stream": true
+      }
+    ]
+  },
+
+  "oxygene": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:oxygene",
+        "stream": true
+      }
+    ]
+  },
+
+  "shuniji": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:shuniji",
+        "stream": true
+      }
+    ]
+  },
+
+  "stand_tall": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:stand_tall",
+        "stream": true
+      }
+    ]
+  },
+
+  "subwoofer_lullaby": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:subwoofer_lullaby",
+        "stream": true
+      }
+    ]
+  },
+
+  "sweden": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:sweden",
+        "stream": true
+      }
+    ]
+  },
+
+  "taswell": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:taswell",
+        "stream": true
+      }
+    ]
+  },
+
+  "the_end": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:the_end",
+        "stream": true
+      }
+    ]
+  },
+
+  "warmth": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:warmth",
+        "stream": true
+      }
+    ]
+  },
+
+  "wending": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:wending",
+        "stream": true
+      }
+    ]
+  },
+
+  "wet_hands": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:wet_hands",
+        "stream": true
+      }
+    ]
+  }
+
+}

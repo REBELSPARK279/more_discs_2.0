@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": {
+    "translate": "item.more_discs_rebelspark.aria_math_music_disc.desc"
+  },
+  "length_in_seconds": 311.0,
+  "sound_event": "more_discs_rebelspark:aria_math"
+}

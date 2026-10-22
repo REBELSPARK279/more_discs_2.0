@@ -1,0 +1,27 @@
+Major update 2.0
+
+-----------------------
+General info:
+-> Complete rewrite of the mod, no longer just copying KaupenJoe's tutorials!
+-> Major rebalance of rarities, loot tables, and crafting recipes.
+
+-----------------------
+Several major changes made:
+    -> introduction of mythic rarity
+    -> changed the rarities of several discs (textures, recipes, and loot chances changed if needed)
+
+-----------------------
+Dozens of minor changes made:
+    -> rename "Generic Wandering Trader Exclusive" rarity to "Common Wandering Trader Exclusive"
+    -> changed disc tooltips from '<rarity> disc' to '<rarity> music disc'
+    -> make the display name of every disc to be its tooltip instead of 'Music Disc'
+
+-----------------------
+Bug fixes:
+    -> fixed typo in 'tooltip.more_discs_rebelspark.common_disc' to say 'Common Disc' instead of incorrectly saying 'Commons Disc'.
+
+-----------------------
+AI DISCLAIMER
+I try to use AI as little as possible for this project. Below I have listed EVERY time I used AI for this project, and how it helped:
+    -> I used AI on 2026.10.19 to check that all entries in 'DiscRarityTreeMap.rarityMap' match exactly to 1.2.0 before i made any changes for 2.0. It confirmed that my entries were perfect to 1.2.0 and made no changes.
+    -> I used AI on 2026.10.20 to make ScrollerGen.java by giving it DiscRarityTreeMap.java and an old scroller.png

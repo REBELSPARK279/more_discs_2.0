@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark:item/headbug_music_disc"
+  }
+}

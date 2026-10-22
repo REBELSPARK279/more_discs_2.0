@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark:item/a_familiar_room_music_disc"
+  }
+}

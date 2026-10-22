@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.more_discs_rebelspark.subwoofer_lullaby_music_disc.desc"
+  },
+  "length_in_seconds": 209.0,
+  "sound_event": "more_discs_rebelspark:subwoofer_lullaby"
+}

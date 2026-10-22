@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark:item/biome_fest_music_disc"
+  }
+}

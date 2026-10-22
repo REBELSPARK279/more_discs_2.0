@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "more_discs_rebelspark",
+	"version": "${version}",
+	"name": "More Discs",
+	"description": "This mod adds dozens of new discs to your Minecraft adventure. These discs appear all throughout the world in different chests, mob drops, and more! Be sure to go back to the mod page for a guide showing where each disc is found.",
+	"authors": [
+		"Rebelspark279"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GNU General Public License v3.0",
+	"icon": "assets/more_discs_rebelspark/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rebelspark.more_discs_rebelspark.MoreDiscs"
+		]
+	},
+	"mixins": [
+		"more_discs_rebelspark.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.more_discs_rebelspark.dragonfish_music_disc.desc"
+  },
+  "length_in_seconds": 374.0,
+  "sound_event": "more_discs_rebelspark:dragonfish"
+}

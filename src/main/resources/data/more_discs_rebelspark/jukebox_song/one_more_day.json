@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.more_discs_rebelspark.one_more_day_music_disc.desc"
+  },
+  "length_in_seconds": 279.0,
+  "sound_event": "more_discs_rebelspark:one_more_day"
+}

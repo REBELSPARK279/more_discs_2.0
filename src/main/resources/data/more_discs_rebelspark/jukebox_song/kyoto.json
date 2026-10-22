@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "item.more_discs_rebelspark.kyoto_music_disc.desc"
+  },
+  "length_in_seconds": 250.0,
+  "sound_event": "more_discs_rebelspark:kyoto"
+}
