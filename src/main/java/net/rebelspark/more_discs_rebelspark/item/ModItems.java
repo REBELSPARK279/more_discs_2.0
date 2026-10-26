@@ -179,7 +179,8 @@ public class ModItems {
     }
 
     private static Item createDisc(final String name, final DiscRarities rarity, final ResourceKey<JukeboxSong> song) {
-        MoreDiscs.LOGGER.info(name + " " + rarity);
+        MoreDiscs.LOGGER.debug("Loading disc");
+        MoreDiscs.LOGGER.debug(name + " " + rarity);
         String rarityType = switch (rarity) {
             case COMMON -> "common";
             case UNCOMMON -> "uncommon";
@@ -209,7 +210,7 @@ public class ModItems {
         final ResourceKey<Item> KEY = ResourceKey.create(Registries.ITEM, identifier);
         return (Registry.register(BuiltInRegistries.ITEM, KEY, new Item(new Item.Properties().setId(KEY).stacksTo(1)) {
             @Override
-            public void appendHoverText(final ItemStack itemStack, final TooltipContext context, final TooltipDisplay display, final Consumer<Component> builder, final TooltipFlag tooltipFlag) {
+            public void appendHoverText(final @NonNull ItemStack itemStack, final @NonNull TooltipContext context, final @NonNull TooltipDisplay display, final @NonNull Consumer<Component> builder, final @NonNull TooltipFlag tooltipFlag) {
                 super.appendHoverText(itemStack, context, display, builder, tooltipFlag);
                 builder.accept(Component.translatable("tooltip.more_discs_rebelspark.dev"));
             }

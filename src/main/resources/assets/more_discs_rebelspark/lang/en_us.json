@@ -76,6 +76,7 @@
   "item.more_discs_rebelspark.dry_hands_music_disc": "Music Disc",
   "item.more_discs_rebelspark.dry_hands_music_disc.desc": "C418 - Dry Hands",
 
+  "item.more_discs_rebelspark.eleven_music_disc": "§eRestored Music Disc",
   "item.more_discs_rebelspark.eleven_music_disc.desc": "C418 - Eleven",
 
   "item.more_discs_rebelspark.excuse_music_disc": "Music Disc",
@@ -114,7 +115,7 @@
   "item.more_discs_rebelspark.infinite_amethyst_music_disc": "Music Disc",
   "item.more_discs_rebelspark.infinite_amethyst_music_disc.desc": "Lena Raine - Infinite Amethyst",
 
-  "item.more_discs_rebelspark.intro_music_disc": "C418 - Intro",
+  "item.more_discs_rebelspark.intro_music_disc.desc": "C418 - Intro",
 
   "item.more_discs_rebelspark.invincible_music_disc": "Music Disc",
   "item.more_discs_rebelspark.invincible_music_disc.desc": "DEAF KEV - Invincible",
