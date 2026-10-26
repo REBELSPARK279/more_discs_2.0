@@ -6,6 +6,7 @@ import net.minecraft.resources.Identifier;
 
 import net.rebelspark.more_discs_rebelspark.item.ModInvTabs;
 import net.rebelspark.more_discs_rebelspark.item.ModItems;
+import net.rebelspark.more_discs_rebelspark.loot.ModLoot;
 import net.rebelspark.more_discs_rebelspark.sound.ModSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -27,6 +28,7 @@ public class MoreDiscs implements ModInitializer {
 		ModItems.init();
 		ModInvTabs.init();
 		ModSounds.init();
+		ModLoot.modifyLootTables();
 	}
 
 	public static Identifier id(String path) {

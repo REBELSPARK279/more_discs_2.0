@@ -3,6 +3,7 @@ package net.rebelspark.more_discs_rebelspark.item;
 import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.CreativeModeTab;
@@ -25,6 +26,7 @@ public class ModInvTabs {
     private static final ResourceKey<CreativeModeTab> VILLAGER_TAB_KEY = ResourceKey.create(BuiltInRegistries.CREATIVE_MODE_TAB.key(), MoreDiscs.id("villager_discs"));
     private static final ResourceKey<CreativeModeTab> WANDY_T_GEN_TAB_KEY = ResourceKey.create(BuiltInRegistries.CREATIVE_MODE_TAB.key(), MoreDiscs.id("wandy-t_gen_discs"));
     private static final ResourceKey<CreativeModeTab> WANDY_T_RARE_TAB_KEY = ResourceKey.create(BuiltInRegistries.CREATIVE_MODE_TAB.key(), MoreDiscs.id("wandy-t_rare_discs"));
+    private static final ResourceKey<CreativeModeTab> FRAG_TAB_KEY = ResourceKey.create(BuiltInRegistries.CREATIVE_MODE_TAB.key(), MoreDiscs.id("frags"));
 
     public static final CreativeModeTab MOD_DISCS = FabricCreativeModeTab.builder().icon(() -> new ItemStack(ModItems.MICE_ON_VENUS))
             .title(Component.translatable("creativetab.more_discs_rebelspark.mod_discs")).displayItems(((parameters, output) -> {
@@ -92,7 +94,20 @@ public class ModInvTabs {
                 output.accept(ModItems.WARMTH);
                 output.accept(ModItems.WENDING);
                 output.accept(ModItems.WET_HANDS);
+                output.accept(ModItems.DOG_FRAG);
+                output.accept(ModItems.MINECRAFT_FRAG);
+                output.accept(ModItems.MOOG_CITY2_FRAG);
+                output.accept(ModItems.THE_END_FRAG);
             })).build();
+
+    public static final CreativeModeTab FRAGS = FabricCreativeModeTab.builder().icon(() -> new ItemStack(ModItems.DOG_FRAG))
+            .title(Component.translatable("creativetab.more_discs_rebelspark.mod_disc_frags")).displayItems((parameters, output) -> {
+                output.accept(Items.DISC_FRAGMENT_5);
+                output.accept(ModItems.DOG_FRAG);
+                output.accept(ModItems.MINECRAFT_FRAG);
+                output.accept(ModItems.MOOG_CITY2_FRAG);
+                output.accept(ModItems.THE_END_FRAG);
+            }).build();
 
     public static final CreativeModeTab COMMON_DISCS = FabricCreativeModeTab.builder().icon(() -> new ItemStack(ModItems.FLOATING_TREES))
             .title(Component.translatable("creativetab.more_discs_rebelspark.common")).displayItems(((parameters, output) -> {
@@ -222,7 +237,7 @@ public class ModInvTabs {
         Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, WANDY_T_GEN_TAB_KEY, GEN_WANDER_DISCS);
         Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, WANDY_T_RARE_TAB_KEY, RARE_WANDER_DISCS);
         Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, DEV, DEV_TAB);
-
+        Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, FRAG_TAB_KEY, FRAGS);
     }
 
 

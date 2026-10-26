@@ -12,6 +12,8 @@
   "item.more_discs_rebelspark.aria_math_music_disc": "Music Disc",
   "item.more_discs_rebelspark.aria_math_music_disc.desc": "C418 - Aria Math",
 
+  "item.more_discs_rebelspark.axolotl_music_disc.desc": "C418 - Axolotl",
+
   "item.more_discs_rebelspark.back_on_dash_music_disc": "Music Disc",
   "item.more_discs_rebelspark.back_on_dash_music_disc.desc": "DJVI - Back on Dash",
 
@@ -60,6 +62,8 @@
   "item.more_discs_rebelspark.door_music_disc": "Music Disc",
   "item.more_discs_rebelspark.door_music_disc.desc": "C418 - Door",
 
+  "item.more_discs_rebelspark.dragonfish_music_disc.desc": "C418 - Dragonfish",
+
   "item.more_discs_rebelspark.dreiton_music_disc": "Music Disc",
   "item.more_discs_rebelspark.dreiton_music_disc.desc": "C418 - Dreiton",
 
@@ -72,6 +76,8 @@
   "item.more_discs_rebelspark.dry_hands_music_disc": "Music Disc",
   "item.more_discs_rebelspark.dry_hands_music_disc.desc": "C418 - Dry Hands",
 
+  "item.more_discs_rebelspark.eleven_music_disc.desc": "C418 - Eleven",
+
   "item.more_discs_rebelspark.excuse_music_disc": "Music Disc",
   "item.more_discs_rebelspark.excuse_music_disc.desc": "C418 - Excuse",
 
@@ -82,7 +88,7 @@
   "item.more_discs_rebelspark.equinoxe_music_disc.desc": "C418 - Équinoxe",
 
   "item.more_discs_rebelspark.firebugs_music_disc": "Music Disc",
-  "item.more_discs_rebelspark.firebugs_music_disc.desc": "C418 - Firebugs",
+  "item.more_discs_rebelspark.firebugs_music_disc.desc": "Lena Raine - Firebugs",
 
   "item.more_discs_rebelspark.flake_music_disc": "Music Disc",
   "item.more_discs_rebelspark.flake_music_disc.desc": "C418 - Flake",
@@ -108,6 +114,8 @@
   "item.more_discs_rebelspark.infinite_amethyst_music_disc": "Music Disc",
   "item.more_discs_rebelspark.infinite_amethyst_music_disc.desc": "Lena Raine - Infinite Amethyst",
 
+  "item.more_discs_rebelspark.intro_music_disc": "C418 - Intro",
+
   "item.more_discs_rebelspark.invincible_music_disc": "Music Disc",
   "item.more_discs_rebelspark.invincible_music_disc.desc": "DEAF KEV - Invincible",
 
@@ -116,6 +124,8 @@
 
   "item.more_discs_rebelspark.ki_music_disc": "Music Disc",
   "item.more_discs_rebelspark.ki_music_disc.desc": "C418 - Ki",
+
+  "item.more_discs_rebelspark.kyoto_music_disc.desc": "C418 - Kyoto",
 
   "item.more_discs_rebelspark.labyrinthine_music_disc": "Music Disc",
   "item.more_discs_rebelspark.labyrinthine_music_disc.desc": "Lena Raine - Labyrinthine",
@@ -147,6 +157,8 @@
   "item.more_discs_rebelspark.oxygene_music_disc": "Music Disc",
   "item.more_discs_rebelspark.oxygene_music_disc.desc": "C418 - Oxygène",
 
+  "item.more_discs_rebelspark.shuniji_music_disc.desc": "C418 - Shuniji",
+
   "item.more_discs_rebelspark.stand_tall_music_disc": "Music Disc",
   "item.more_discs_rebelspark.stand_tall_music_disc.desc": "Lena Raine - Stand Tall",
 
@@ -162,6 +174,8 @@
   "item.more_discs_rebelspark.the_end_music_disc": "Music Disc",
   "item.more_discs_rebelspark.the_end_music_disc.desc": "C418 - The End",
 
+  "item.more_discs_rebelspark.warmth_music_disc.desc": "C418 - Warmth",
+
   "item.more_discs_rebelspark.wending_music_disc": "Music Disc",
   "item.more_discs_rebelspark.wending_music_disc.desc": "Lena Raine - Wending",
 
@@ -174,6 +188,8 @@
   "item.more_discs_rebelspark.moog_city2_disc_fragment": "Moog City 2 Disc Fragment",
   "item.more_discs_rebelspark.minecraft_disc_fragment": "Minecraft Disc Fragment",
   "item.more_discs_rebelspark.the_end_disc_fragment": "The End Disc Fragment",
+
+  "item.more_discs_rebelspark.disc_guide": "Disc Guide",
 
   "block.more_discs_rebelspark.white_led_dance_floor": "White LED Dance Floor",
   "block.more_discs_rebelspark.light_grey_dance_floor": "Light Gray Dance Floor",
@@ -206,12 +222,12 @@
 
   "creativetab.more_discs_rebelspark.mod_discs": "Mod Discs",
   "creativetab.more_discs_rebelspark.mod_disc_frags": "Disc Fragments",
-  "creativetab.more_discs_rebelspark.common": "Common Discs",
-  "creativetab.more_discs_rebelspark.uncommon": "Uncommon Discs",
-  "creativetab.more_discs_rebelspark.rare": "Rare Discs",
-  "creativetab.more_discs_rebelspark.epic": "Epic Discs",
-  "creativetab.more_discs_rebelspark.legendary": "Legendary Discs",
-  "creativetab.more_discs_rebelspark.mythic": "Mythic Discs",
+  "creativetab.more_discs_rebelspark.common": "§7Common Discs",
+  "creativetab.more_discs_rebelspark.uncommon": "§2Uncommon Discs",
+  "creativetab.more_discs_rebelspark.rare": "§9§lRare Discs",
+  "creativetab.more_discs_rebelspark.epic": "§5§lEpic Discs",
+  "creativetab.more_discs_rebelspark.legendary": "§6§lLegendary Discs",
+  "creativetab.more_discs_rebelspark.mythic": "§d§lMythic Discs",
   "creativetab.more_discs_rebelspark.villager": "Villager Exclusive Discs",
   "creativetab.more_discs_rebelspark.wandy-t_gen": "Common Wandering Trader Exclusive Discs",
   "creativetab.more_discs_rebelspark.wandy-t_rare": "Rare Wandering Trader Exclusive Discs",
@@ -225,6 +241,7 @@
   "tooltip.more_discs_rebelspark.rare_disc": "§9§lRare Music Disc",
   "tooltip.more_discs_rebelspark.epic_disc": "§5§lEpic Music Disc",
   "tooltip.more_discs_rebelspark.legendary_disc": "§6§l§kE§r§6§lLEGENDARY MUSIC DISC§kE",
+  "tooltip.more_discs_rebelspark.mythic_disc": "§d§l§kEEE§r§d§lMYTHIC MUSIC DISC§kEEE",
 
   "tooltip.more_discs_rebelspark.gen_wandy-t_disc": "§3Common Wandering Trader Exclusive Disc",
   "tooltip.more_discs_rebelspark.rare_wandy-t_disc": "§b§lRare Wandering Trader Exclusive Disc",

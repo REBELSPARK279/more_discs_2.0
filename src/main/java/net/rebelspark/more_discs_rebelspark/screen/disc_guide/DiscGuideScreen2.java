@@ -1,17 +1,13 @@
-package net.rebelspark.more_discs_rebelspark.screen;
+package net.rebelspark.more_discs_rebelspark.screen.disc_guide;
 
-import com.mojang.authlib.minecraft.client.MinecraftClient;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiGraphicsExtractor;
 import net.minecraft.client.gui.components.Button;
-import net.minecraft.client.gui.navigation.ScreenPosition;
 import net.minecraft.client.gui.screens.Screen;
-import net.minecraft.client.renderer.RenderPipelines;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.Identifier;
-import net.rebelspark.more_discs_rebelspark.MoreDiscs;
 import org.jspecify.annotations.NonNull;
 
 @Environment(EnvType.CLIENT)

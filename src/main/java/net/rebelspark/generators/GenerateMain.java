@@ -3,8 +3,6 @@ import net.rebelspark.more_discs_rebelspark.rarityHandlers.DiscRarityTreeMap;
 
 void main() {
     Scanner scanner = new Scanner(System.in);
-
-    DiscRarityTreeMap.init();
     init();
 
     IO.print("Generate for ([I] ModItems, [S] ModSounds, [*] All to the Left, [C] CreativeModeTabGen): ");
@@ -71,6 +69,7 @@ void main() {
 }
 
 private static final ArrayList<String> itemList = new ArrayList<>();
+private static final ArrayList<String> fragList = new ArrayList<>();
 
 private static void init() {
     IO.println("[DEBUG] " + DiscRarityTreeMap.rarityMap.size());
@@ -78,12 +77,17 @@ private static void init() {
     for (int i = 0; i < DiscRarityTreeMap.rarityMap.size(); i++) {
         itemList.add(DiscRarityTreeMap.rarityMap.keySet().toArray()[i].toString());
     }
+    fragList.add("dog_frag");
+    fragList.add("minecraft_frag");
+    fragList.add("moog_city2_frag");
+    fragList.add("the_end_frag");
 }
+
 
 
 private static void genModItemsFile() {
     for (String item: itemList) {
-        IO.println("public static final Item %1$s = createDisc(\"%2$s_music_disc\", DiscRarities.%3$s, ModSounds.%1$s_SOUND);".formatted(item.toUpperCase(), item, DiscRarityTreeMap.rarityMap.get(item)));
+        IO.println("public static final Item %1$s = createDisc(\"%2$s_music_disc\", DiscRarityTreeMap.rarityMap.get(\"%2$s\"), ModSounds.%1$s_SOUND);".formatted(item.toUpperCase(), item));
     }
 }
 
@@ -100,6 +104,10 @@ private static void genCreativeTabMain() {
     for (String item: itemList) {
         IO.println("""
                 output.accept(ModItems.%s);""".formatted(item.toUpperCase()));
+    }
+    for (String frag: fragList) {
+        IO.println("""
+                output.accept(ModItems.%s);""".formatted(frag.toUpperCase()));
     }
 }
 

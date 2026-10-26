@@ -1,4 +1,4 @@
-package net.rebelspark.more_discs_rebelspark.screen;
+package net.rebelspark.more_discs_rebelspark.screen.disc_guide;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiGraphicsExtractor;

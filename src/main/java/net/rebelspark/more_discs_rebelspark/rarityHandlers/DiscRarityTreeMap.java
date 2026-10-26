@@ -7,7 +7,7 @@ public class DiscRarityTreeMap {
     public static TreeMap<String, DiscRarities> rarityMap = new TreeMap<>();
 
 
-    public static void init() {
+    static {
         rarityMap.put("a_familiar_room", DiscRarities.COMMON);
         rarityMap.put("aerie", DiscRarities.EPIC);
         rarityMap.put("alpha", DiscRarities.LEGENDARY);
@@ -72,7 +72,6 @@ public class DiscRarityTreeMap {
         rarityMap.put("axolotl", DiscRarities.COMMON);
         rarityMap.put("shuniji", DiscRarities.UNCOMMON);
         rarityMap.put("dragonfish", DiscRarities.COMMON);
-
     }
 
 }

@@ -84,7 +84,6 @@ public final class ScrollerGen {
             throw new IllegalArgumentException("MYTHIC_FRAME_TICKS must divide " + DISC_TICKS);
         }
 
-        DiscRarityTreeMap.init();
         Map<String, List<String>> groups = new LinkedHashMap<>();
         for (String group : List.of("common", "uncommon", "rare", "epic", "legendary", "mythic", "trader")) {
             groups.put(group, new ArrayList<>());

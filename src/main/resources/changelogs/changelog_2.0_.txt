@@ -14,14 +14,28 @@ Several major changes made:
 Dozens of minor changes made:
     -> rename "Generic Wandering Trader Exclusive" rarity to "Common Wandering Trader Exclusive"
     -> changed disc tooltips from '<rarity> disc' to '<rarity> music disc'
-    -> make the display name of every disc to be its tooltip instead of 'Music Disc'
+    -> make the display name of every disc to be its rarity instead of 'Music Disc'
+
+-----------------------
+Major loot table rebalances:
+    -> removed a familiar room from desert pyramid, igloo, and bastion
+    ->
+
+
+    -> removed the end fragments from shulker boxes
+    -> removed the end disc from ender dragon
+    -> added the end fragments to ender dragon
 
 -----------------------
 Bug fixes:
     -> fixed typo in 'tooltip.more_discs_rebelspark.common_disc' to say 'Common Disc' instead of incorrectly saying 'Commons Disc'.
+    -> fixed incorrect crediting of 'Firebugs' from C418 to Lena Raine.
+
+    -> likely several more unknown bugs were fixed due to the complete recode of the mod
 
 -----------------------
 AI DISCLAIMER
-I try to use AI as little as possible for this project. Below I have listed EVERY time I used AI for this project, and how it helped:
+I try to use AI as little as possible for this project (mostly for tediously repeating the same task work). Below I have listed EVERY time I used AI for this project, and how it helped:
     -> I used AI on 2026.10.19 to check that all entries in 'DiscRarityTreeMap.rarityMap' match exactly to 1.2.0 before i made any changes for 2.0. It confirmed that my entries were perfect to 1.2.0 and made no changes.
     -> I used AI on 2026.10.20 to make ScrollerGen.java by giving it DiscRarityTreeMap.java and an old scroller.png
+    -> I used AI on 2026.10.25 to map the old ModGlobalLootModifiers to the new ModLoot format AFTER i figured out how to do it once.
